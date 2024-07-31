@@ -8,7 +8,7 @@ import { Providers } from "@/Providers";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Didit",
+  title: "IDidShit",
   description: "A social app like Reddit or Hacker News",
 };
 
